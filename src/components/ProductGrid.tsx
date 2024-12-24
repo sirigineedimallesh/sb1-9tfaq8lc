@@ -8,7 +8,7 @@ const products = [
     price: 69999,
     originalPrice: 79900,
     discount: 12,
-    image: "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=800&auto=format&fit=crop&q=60",
+    image: "https://demo-source.imgix.net/house.jpg",
     brand: "APPLE"
   },
   {
