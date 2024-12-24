@@ -11,8 +11,8 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center space-x-8">
             <div className="flex flex-col">
-              <span className="font-bold text-xl">Flipkart</span>
-              <span className="text-xs italic">Explore Plus</span>
+              <span className="font-bold text-xl">sri lakhshimi</span>
+              <span className="text-xs italic">ganapathi kitchenware</span>
             </div>
             
             {/* Search Bar */}
