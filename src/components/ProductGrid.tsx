@@ -17,7 +17,7 @@ const products = [
     price: 39999,
     originalPrice: 74999,
     discount: 46,
-    image: "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=800&auto=format&fit=crop&q=60",
+    image: "https://demo-source.imgix.net/sneakers.jpg",
     brand: "SAMSUNG"
   },
   {
