@@ -2,8 +2,8 @@ import React from 'react';
 import { Smartphone, Laptop, Headphones, Camera, Watch, Gift } from 'lucide-react';
 
 const categories = [
-  { name: 'cutter items', icon: Smartphone },
-  { name: 'steel spoons', icon: Laptop },
+  { name: 'cutters', icon: Smartphone },
+  { name: 'ss spoons', icon: Laptop },
   { name: 'Audio', icon: Headphones },
   { name: 'Cameras', icon: Camera },
   { name: 'Watches', icon: Watch },
